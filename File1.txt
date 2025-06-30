@@ -6,3 +6,4 @@ commit test
 67890.
 Добавление строки в bash
 Изменение кода в github
+new branch line
